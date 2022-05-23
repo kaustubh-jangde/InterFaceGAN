@@ -1,0 +1,7 @@
+[2022-03-23 22:08:48,957][INFO] Initializing generator.
+[2022-03-23 22:08:49,142][INFO] Loading pytorch model from `models/pretrain/stylegan_ffhq.pth`.
+[2022-03-23 22:08:49,282][INFO] Successfully loaded!
+[2022-03-23 22:08:49,451][INFO] Preparing boundary.
+[2022-03-23 22:08:49,454][INFO] Preparing latent codes.
+[2022-03-23 22:08:49,454][INFO]   Sample latent codes randomly.
+[2022-03-23 22:08:49,457][INFO] Editing 1 samples.
